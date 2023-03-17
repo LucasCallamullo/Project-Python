@@ -2,7 +2,7 @@
 # Project in python
 
 ## [EN]
-The Software Projects we worked with in the previous TP are now in a text file called "progetti.csv" (click on the file name to download the compressed file), 
+The Software Projects we worked with in the previous TP are now in a text file called "proyectos.csv" (click on the file name to download the compressed file), 
 where each piece of data is separated from the next by pipe characters (“|”). The first line of the file contains the headers and should be skipped when processing
 the file. Each line in the file is separated from the next with a line break, and each one has the following format:
 
