@@ -1,7 +1,7 @@
 # Project-Python
 # Project in python
 
-[EN]
+## [EN]
 The Software Projects we worked with in the previous TP are now in a text file called "progetti.csv" (click on the file name to download the compressed file), 
 where each piece of data is separated from the next by pipe characters (“|”). The first line of the file contains the headers and should be skipped when processing
 the file. Each line in the file is separated from the next with a line break, and each one has the following format:
@@ -79,7 +79,7 @@ by a record with the following fields:
 
 
 
-[ES]
+## [ES]
 Los Proyectos de Software con los que trabajamos en el TP anterior  ahora se encuentran en un archivo de texto proyectos.csv, (hacer click en el nombre del 
 archivo para descargar el archivo comprimido que lo contiene), en el que cada dato se separa del siguientes por caracteres pipe (“|”).  La primera línea del 
 archivo contiene los encabezados, y debe ser salteada al procesar el archivo. Cada línea del archivo se separa de la siguiente con un salto de línea, y cada 
