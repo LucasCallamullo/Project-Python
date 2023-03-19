@@ -1,5 +1,5 @@
 # Project-Python
-===========================================================================================================
+================================================================
 ## [EN]
 In this project, you will find the use of:
 
@@ -27,7 +27,7 @@ About the files:
 * complete_instructions.md: contains the complete and detailed project statement.
 * proyectos.csv: contains the data to be loaded into the code's array/object/class and used in the different program options.
 
-===========================================================================================================
+============================================================
 ## [ES]
 En el siguiente proyecto podremos encontrar el uso de:
 
