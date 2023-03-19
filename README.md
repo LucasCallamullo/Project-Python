@@ -49,9 +49,9 @@ En el siguiente proyecto podremos encontrar el uso de:
 * Logica matematica aplicada para la resolucion de algunas funciones.
 
 Sobre los Archivos:
-"functios.py": contiene las funciones utilizadas que son llamadas desde main2.
-"main2.py": contiene el archivo principal con el menu de opciones, menu.
-"class_project.py": contiene al objeto principal que creamos para la solucion de proyecto.
-complete_instructions.md: contiene el enunciado completo y detallado del proyecto.
-proyectos.csv: contiene los datos para poder cargarlos en el arreglo/objeto/clase del codigo 
+* "functios.py": contiene las funciones utilizadas que son llamadas desde main2.
+* "main2.py": contiene el archivo principal con el menu de opciones, menu.
+* "class_project.py": contiene al objeto principal que creamos para la solucion de proyecto.
+* complete_instructions.md: contiene el enunciado completo y detallado del proyecto.
+* proyectos.csv: contiene los datos para poder cargarlos en el arreglo/objeto/clase del codigo 
 y utilizar esa informacion en las distintas opciones del programa.
